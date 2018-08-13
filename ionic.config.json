@@ -1,0 +1,8 @@
+{
+  "name": "FileSample",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "624ef32c"
+}
